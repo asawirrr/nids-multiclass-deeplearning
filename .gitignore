@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+*.csv
+*.pcap
+*.pcap_ISCX.csv
+venv/
+.venv/
+*.pkl
+*.joblib
+*.h5
+*.keras
+.vscode/
+.idea/
